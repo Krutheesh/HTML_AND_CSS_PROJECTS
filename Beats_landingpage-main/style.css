@@ -1,0 +1,256 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+body{
+  background-color: rgb(7, 6, 6);
+}
+.nav{
+margin-top: 40px;
+}
+.flex{
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  align-items: center;
+  list-style: none;
+  font-family: sans-serif;
+
+}
+.flex2{
+  display: flex;
+  justify-content: center;
+  color: white;
+  align-items: center;
+  list-style: none;
+  font-family: sans-serif;
+  margin-top: 5%;
+  
+  
+}
+.main{
+  margin: 0 10%;
+  
+  
+}
+.list-item{
+  margin-right: 55px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.bot{
+  padding: 15px 50px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(40, 38, 38);
+  font-size: medium;
+  margin-left: 50px;
+  margin-right: 0px;
+}
+.beat{
+  color: white;
+  margin-left: 15px;
+}
+.pos{
+  position: absolute;
+  top: -25%;
+}
+ .onear{
+  margin-top: 5%;
+margin-left: 8%;
+ } 
+
+.right{
+  width: 60%;
+}
+.rh{
+  margin-top: 2%;
+  font-size:60px;
+  font-family: sans-serif;
+}
+.rp{
+  
+  font-family: sans-serif;
+  font-weight: 700;
+  margin-top: 10%;
+  
+}
+.rp2{
+  margin-top: 5%;
+  width: 65%;
+  line-height: 30px;
+}
+.rh1{
+  font-weight: 700;
+  color: white;
+}
+.bag{
+
+  width: 35%;
+  background-color: rgb(34, 31, 31);
+  margin-left: 15px;
+  margin-top: 10%;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.company{
+  display: flex;
+  margin-top: 10%;
+  justify-content: space-around;
+  align-items: center;
+  width: 85%;
+  margin-left: 5%;
+}
+.specs{
+  margin-top: 15%;
+}
+.spec-icon{
+ 
+  text-align: center;
+}
+.sp{
+  margin-top: 10px;
+}
+.specs-down,.bp{
+  margin-top: 20px;
+}
+.cm{
+  margin-left: 10%;
+}
+.case-left{
+  width: 30%;
+  
+  
+  line-height: 2.0em;
+}
+.ci{
+  margin-right: 7%;
+  
+}
+.info{
+  margin-top: 50px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(40, 38, 38);
+  width: 50%;
+  justify-content: space-evenly;
+  
+}
+
+
+.buy{
+  margin-top: 15%;
+  padding: 7% 0;
+  background-color: rgb(27, 26, 26);
+  border-radius: 10px;
+}
+.bh{
+  line-height: 1.5em;
+}
+.buy-left{
+  width: 70%;
+
+}
+.buy-right{
+  width: 30%;
+
+}
+
+.footer{
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-left: 10%;
+  
+  position: relative;
+  
+  
+}
+.foot{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(40, 39, 39);
+  border-radius: 5px;
+  padding: 10px;
+}
+input{
+  background-color: rgb(40, 39, 39);
+  
+  border: none;
+  outline: none;
+
+  
+  
+}
+.sub{
+  background-color: black;
+  padding: 7px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  border-radius: 5px;
+}
+.arrow{
+  margin-right: 5px;
+}
+.fim{
+  margin-top: 10px;
+}
+.line{
+  line-height: 2rem;
+}
+.style-grid{
+  margin-top: 15%;
+  display: grid;
+  grid-template-columns: 20% 20% 20%;
+  margin: 15% 15%;
+  
+  justify-content: space-evenly;
+  row-gap: 100px;
+  
+}
+.sty{
+  margin-top: 15%;
+}
+.line-two{
+  line-height: 1.5rem;
+  margin-left: 10px;
+}
+.line-two>p:nth-child(2){
+  color: rgb(160, 156, 156);
+}
+.transparent{
+  padding-top: 60%;
+  background-color: rgb(40, 39, 39);
+  color: white;
+  font-family: sans-serif;
+  border-radius: 10px;
+}
+.shopim{
+  margin: 10px;
+  background-color: black;
+  padding: 7px;
+  border-radius: 5px;
+}
+.sa{
+  position: relative;
+  
+}
+.impos{
+  width: 60%;
+  position: absolute;
+  top: -30%;
+  left: 20%;
+}
+.buy-now{
+  background-color:black;
+}
+.uparrow{
+  position: absolute;
+  right: -12%;
+  bottom: 15%;
+  
+}
